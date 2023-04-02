@@ -1,2 +1,19 @@
 # torch_project
-PyTorch DeepLearning Study
+PyTorch Cluster for DeepLearning Study
+
+
+
+---
+## Usage 
+### Build 
+```bash
+make build
+```
+### Run 
+```bash
+make start
+```
+### Stop
+```bash
+make stop
+```
