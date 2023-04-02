@@ -1,7 +1,13 @@
-build:
-		@echo "---- BUILD ----"
-		@docker build -t torch-cluster .
+build :
+	@echo "---- BUILD ----"
+	@docker build -t torch-cluster .
 
-start:
-		@echo "---- START ----"
-		@sh ./startCluster.sh
+start :
+	@echo "---- START ----"
+	@chmod +x startHadoopCluster.sh
+	@s./startCluster.sh
+
+stop :
+	@echo "---- STOP ----"
+	@chmod +x stop.sh
+	@./stop.sh 
