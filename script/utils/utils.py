@@ -22,10 +22,6 @@ class ImageLoader(torch.utils.data.Dataset):
     
 class TransformsCE:
     def __init__(self, size):
-        s = 1
-        color_jitter = torchvision.transforms.ColorJitter(
-            0.8 * s, 0.8 * s, 0.8 * s, 0.2 * s
-        )
         self.data_transform = {
             'train': torchvision.transforms.Compose([
                 torchvision.transforms.Resize(size=size), 

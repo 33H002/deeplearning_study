@@ -9,5 +9,5 @@ start :
 
 stop :
 	@echo "---- STOP ----"
-	@chmod +x stop.sh
-	@./stop.sh 
+	@chmod +x stopCluster.sh
+	@./stopCluster.sh
