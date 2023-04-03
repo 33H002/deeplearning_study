@@ -7,7 +7,8 @@
 
 -About Experiment | 
 [[Reports]](https://wandb.ai/33h002/public/reports/Experimental-Reports--VmlldzozOTYzMjk5)
-[[config]](https://wandb.ai/33h002/public/runs/mneq6tmp/overview?workspace=user-33h002)
+[[Workspace]](https://wandb.ai/33h002/public?workspace=user-33h002)
+[[Config]](https://wandb.ai/33h002/public/runs/mneq6tmp/overview?workspace=user-33h002)
 
 
 
