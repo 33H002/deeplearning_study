@@ -10,7 +10,7 @@ RUN apt-get -qq update && \
 ENV PATH=$PATH:/tmp
 
 ADD requirements.txt /tmp/requirements.txt
-ADD startJupyter.sh /tmp/startJupyter.sh
+ADD bin/startJupyter.sh /tmp/startJupyter.sh
 
 RUN conda install jupyter && \ 
     pip install -r /tmp/requirements.txt && \ 

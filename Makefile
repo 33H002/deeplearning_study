@@ -4,10 +4,10 @@ build :
 
 start :
 	@echo "---- START ----"
-	@chmod +x startHadoopCluster.sh
-	@s./startCluster.sh
+	@chmod +x bin/startHadoopCluster.sh
+	@./bin/startCluster.sh
 
 stop :
 	@echo "---- STOP ----"
 	@chmod +x stopCluster.sh
-	@./stopCluster.sh
+	@./bin/stopCluster.sh
