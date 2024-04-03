@@ -1,4 +1,5 @@
 # torch_project
+- 재현 가능한 딥러닝을 위하여 파이토치 클러스터 환경을 구성합니다.
 - PyTorch Cluster for DeepLearning Study
 
 -Sample DeepLearning Code | 
