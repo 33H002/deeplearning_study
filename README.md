@@ -21,9 +21,9 @@
 
 :heavy_check_mark: **Notebooks**
 
-:link: [[1.1 Sentece-Transformer]](https://github.com/33H002/deeplearning_study/blob/main/notebook/101_sentence_transformer.ipynb) Fine-tuning Sentence Transformer with Contrastive Learning Framework
+:link: [[1.1 Sentece-Transformer]](https://github.com/33H002/deeplearning_study/blob/main/notebook/101_sentence_transformer.ipynb) Fine-tuning Sentence Transformer with **Contrastive Learning** Framework
 
-:link: [[1.2 Fine-Tuning CausalLM(Gemma-2b)]](https://github.com/33H002/deeplearning_study/blob/main/notebook/102_gemma-2b.ipynb) Fine-tuning Generative Language Model (Google Gemma)
+:link: [[1.2 Fine-Tuning CausalLM(Gemma-2b)]](https://github.com/33H002/deeplearning_study/blob/main/notebook/102_gemma-2b.ipynb) Fine-tuning **Generative Language Model** (Google Gemma)
 
 <br/>
 
