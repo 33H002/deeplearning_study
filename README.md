@@ -7,7 +7,7 @@
 <br/>
 
 :heavy_plus_sign:
-### **1. C++ 코드 유사성 판단**
+### **1. [Sentence Similarity] C++ 코드 유사성 판단**
    
 :star2: `#NLP` `#Transformer` `#GenerativeAI` `#LLM` `#gemma` `#NTXent` `#SentenceSimilarity` :star2:
 
