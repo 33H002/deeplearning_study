@@ -50,6 +50,10 @@ DATASET :arrow_right: :link: https://dacon.io/competitions/official/236230/data
 
 :link: (TBU)[[ 2.2 TaPTaP]]() ***Generative Language Model*** for Tabular dataset
 
+<br/>
+
+:heavy_plus_sign:
+#### :question: What's NEXT :confounded: ####
 
 
 <br/>
