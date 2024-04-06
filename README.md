@@ -7,13 +7,13 @@
 <br/>
 
 :heavy_plus_sign:
-### **1. [DACON] 코드 유사성 판단 시즌2 AI 경진대회**
+### **1. C++ 코드 유사성 판단**
    
 :star2: `#NLP` `#Transformer` `#GenerativeAI` `#LLM` `#gemma` `#NTXent` `#SentenceSimilarity` :star2:
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
-:arrow_right: C++ 코드간의 유사성을 판단할 수 있는 AI 알고리즘 개발
+DATASET :arrow_right: [DACON] 코드 유사성 판단 시즌2 AI 경진대회
 
 :link: https://dacon.io/competitions/official/236228/overview/description
 
