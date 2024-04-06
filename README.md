@@ -13,9 +13,7 @@
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
-DATASET :arrow_right: [DACON] 코드 유사성 판단 시즌2 AI 경진대회
-
-:link: https://dacon.io/competitions/official/236228/overview/description
+DATASET :arrow_right: :link: https://dacon.io/competitions/official/236228/overview/description
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
@@ -28,11 +26,22 @@ DATASET :arrow_right: [DACON] 코드 유사성 판단 시즌2 AI 경진대회
 <br/>
 
 :heavy_plus_sign:
-### **2. TBU**
+### **2. [Transfer/Table Embedding] Transferable Transformer & Generative Language Model on Tabular domain**
+
+:star2: `#TransferLearning` `#TransTab` `#Transformer` `#GenerativeAI` `#TaPTaP` `#Tabular` :star2:
+
+DATASET :arrow_right: :link: https://dacon.io/competitions/official/236230/overview/description
+
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+
+:heavy_check_mark: **Notebooks**
+
+:link: [[2.1 Transtab]](https://github.com/33H002/deeplearning_study/blob/main/notebook/101_sentence_transformer.ipynb) Table Embedding with Transferable Tabular Transformer (**combining column description and table cells**, **contrastive learning** for tabular)
+
+:link: (TBU)[[ 2.2 TaPTaP]]() ***Generative Language Model*** for Tabular dataset
 
 
 <br/>
-
 
 ---
 ## forked from 33H002/torch_cluster
