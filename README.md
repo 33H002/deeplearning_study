@@ -13,7 +13,7 @@
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
-DATASET :arrow_right: :link: https://dacon.io/competitions/official/236228/overview/description
+DATASET :arrow_right: :link: https://dacon.io/competitions/official/236228/data
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
@@ -30,7 +30,9 @@ DATASET :arrow_right: :link: https://dacon.io/competitions/official/236228/overv
 
 :star2: `#TransferLearning` `#TransTab` `#Transformer` `#GenerativeAI` `#TaPTaP` `#Tabular` :star2:
 
-DATASET :arrow_right: :link: https://dacon.io/competitions/official/236230/overview/description
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+
+DATASET :arrow_right: :link: https://dacon.io/competitions/official/236230/data
 
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 
@@ -38,7 +40,16 @@ DATASET :arrow_right: :link: https://dacon.io/competitions/official/236230/overv
 
 :link: [[2.1 Transtab]](https://github.com/33H002/deeplearning_study/blob/main/notebook/101_sentence_transformer.ipynb) Table Embedding with Transferable Tabular Transformer (**combining column description and table cells**, **contrastive learning** for tabular)
 
+<details>
+<summary>transtab architecture</summary>  
+   
+<figure>
+    <img src="img/transtab-fig2.png", height="500x", width="500px", alt="transtab">
+</figure>
+</details>
+
 :link: (TBU)[[ 2.2 TaPTaP]]() ***Generative Language Model*** for Tabular dataset
+
 
 
 <br/>
